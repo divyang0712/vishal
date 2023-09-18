@@ -5,3 +5,10 @@ vbc
 
 intel
 
+rp 
+
+ishani solutions
+
+
+## education experience
+-parul university
